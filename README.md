@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![time to coffee](https://i.postimg.cc/2S296ZCL/Sipping-Tea-Time-GIF.gif)
+![time to coffee](https://i.postimg.cc/WbdPtjjK/GIF-by-toyfantv.gif)
