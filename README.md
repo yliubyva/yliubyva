@@ -1,18 +1,13 @@
 ## Hi there 👋
 
-<!--
-**yliubyva/yliubyva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | React Enthusiast 💻
 
-Here are some ideas to get you started:
+I build responsive web apps with a focus on clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🔭 Working on: Volunteer project (Next.js/React).
 
-![time to coffee](https://i.postimg.cc/WbdPtjjK/GIF-by-toyfantv.gif)
+  🛠 Tech: React, TS, Redux, Tailwind CSS.
+
+  📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/yliubyva/)
+
+*“Always learning, always coding.”*
