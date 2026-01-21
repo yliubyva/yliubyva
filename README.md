@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Frontend Developer | React Enthusiast 💻
+Front-end Developer | React Enthusiast 💻
 
 I build responsive web apps with a focus on clean architecture.
 
